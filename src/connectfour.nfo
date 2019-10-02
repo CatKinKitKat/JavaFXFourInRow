@@ -1,0 +1,21 @@
+/*
+ *  Gonçalo Candeias Amaro - 17440
+ *  Connect Four - PO2
+ *  Game Info
+ */
+
+Game->
+        Height: 6 Cells
+        Width: 7 Cells
+
+        Places: 6*7 Cells
+
+        Pts: (6*7) - Plays
+
+        Players: 2
+
+Project->
+        IDE: IntelliJ IDEA Community
+        OS: Fedora Workstation 30
+
+        Other: openjdk8 + openjfx
