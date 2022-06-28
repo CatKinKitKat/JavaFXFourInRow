@@ -1,0 +1,7 @@
+= JavaFXFourInRow
+
+A JavaFX 4-in-a-row game made for the begining of my PO2 (OOP; Object Oriented Programming) course as the first project.
+
+== Description
+
+This simple JavaFX (JDK8) app is just a simple MVC app with a grid of buttons for a view, from which it has stacks to save player moves and work out the mechanism for do and undo, win-draw conditions checking and yada yada yada.
